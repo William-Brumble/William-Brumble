@@ -1,9 +1,9 @@
 <div align="center" style="background:; padding:48px; margin:0">
     <div align="center" style="display:flex; flex-direction:row; justify-content:center; gap:0;">
-        <img height="200" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
         </span>
-        <img height="200" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-        <img height="200" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
     </div>
     <p></p>
     <p align="center" style="font-size: 48px;"><strong><u>0x26B</u></strong></p>

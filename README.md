@@ -1,10 +1,5 @@
 <div align="center" style="background:; padding:48px; margin:0">
-    <div align="center" style="display:flex; flex-direction:row; justify-content:center; gap:0;">
-        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-        </span>
-        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-        <img height="150" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-    </div>
+    <img height="150" style="margin:0;padding:0;" src="https://img.itch.zone/aW1nLzE3MDA3NTIuZ2lm/original/CcRX16.gif"  />
     <p></p>
     <p align="center" style="font-size: 48px;"><strong><u>0x26B</u></strong></p>
     <p align="center" style="font-size: 14px;">Hello! I am a software developer with a background in industrial automation.<br/>With a passion for the entire web development stack, I have a skill set that spans from backend to frontend technologies.<br/>The skills include Linux, Docker, Kubernetes, and various programming languages such as Python, C, Node.js, React, and Next.js.</p>

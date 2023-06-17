@@ -6,7 +6,7 @@
         <img height="200" style="margin:0;padding:0;" src="https://media2.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e47ieqiyzag79zxdr5eox1cokhp8ignbk0ejibi348c&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
     </div>
     <p></p>
-    <p align="center" style="font-size: 28px;"><strong><u>0x26B</u></strong></p>
+    <p align="center" style="font-size: 48px;"><strong><u>0x26B</u></strong></p>
     <p align="center" style="font-size: 14px;">Hello! I am a software developer with a background in industrial automation.<br/>With a passion for the entire web development stack, I have a skill set that spans from backend to frontend technologies.<br/>The skills include Linux, Docker, Kubernetes, and various programming languages such as Python, C, Node.js, React, and Next.js.</p>
     <p>&nbsp;</p>
     <div align="center">
